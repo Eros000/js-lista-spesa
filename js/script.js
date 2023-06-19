@@ -8,3 +8,16 @@ const myList = [
     'formaggio',
     'pane',
 ]
+console.log('myList', myList, typeof myList)
+
+
+let i = 0
+while (i < myList.length){
+
+    console.log(myList[i]);
+
+    
+
+    i++
+
+}
