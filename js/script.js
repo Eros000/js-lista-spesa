@@ -22,8 +22,7 @@ while (i < myList.length){
         <li>
             ${myList[i]}
         </li>
+
     `
-
     i++
-
 }
